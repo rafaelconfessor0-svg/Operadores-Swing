@@ -29,6 +29,8 @@ Praticar:
 2. Abra o projeto no NetBeans.
 3. Execute a aplicação.
 
+![Tela do projeto](Captura%20de%20tela%20de%202026-08-03%2019-40-37.png)
+
 
 
 ## 👨‍💻 Autor
